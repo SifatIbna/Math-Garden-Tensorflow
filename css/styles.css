@@ -29,6 +29,16 @@ h1, h2 {
   display: inline;
   border: 5px solid #FFFFFF;
 }
+
+/* #my-canvas{
+  vertical-align: top;
+    position: static;
+    cursor: move;
+    margin: auto;
+    border: 5px solid #FFFFFF;
+    background: white;
+    overflow: visible;
+} */
 .container {
   text-align: center;
   margin: 50px auto;
