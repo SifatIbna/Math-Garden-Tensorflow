@@ -2,7 +2,7 @@ var model;
 
 async function loadModel() {
   model = await tf.loadGraphModel(
-    "https://angelabauer.github.io/TFJS/data/model.json"
+    "https://sifatibna.github.io/TFJS/data/model/model.json"
   );
 }
 
